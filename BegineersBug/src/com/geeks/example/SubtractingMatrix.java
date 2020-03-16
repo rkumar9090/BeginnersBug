@@ -5,8 +5,8 @@ public class SubtractingMatrix {
 	public static void main(String[] args) {
 		try {
 
-			int a[][] = { { 54, 67 }, { 45, 56 } };
-			int b[][] = { { 25, 56 }, { 85, 96 } };
+			int a[][] = { { 50, 60 }, { 20, 15 } };
+			int b[][] = { { 25, 20 }, { 10, 5 } };
 
 			// Declaring the diff matrix
 			int[][] diff = new int[a.length][b.length];
