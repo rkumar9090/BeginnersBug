@@ -2,7 +2,7 @@ package com.geeks.example;
 
 import java.io.File;
 
-public class CreateFileEaxmple {
+public class CreateFileExample {
 
 	public static void main(String[] args) {
 		try {
