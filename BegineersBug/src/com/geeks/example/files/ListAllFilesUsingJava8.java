@@ -1,4 +1,4 @@
-package com.geeks.example;
+package com.geeks.example.files;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
